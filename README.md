@@ -1,13 +1,3 @@
-### **BI Visualisations:**
-
-1) Tableau Audiobook Sales + Reviews (Area Chart)
-Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsAreaChart/AreaChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-2) Tableau Audiobook Sales + Reviews (Pie Chart)
-Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsPieChart/PieChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-3) Tableau Audiobook Sales + Reviews (Bar Chart)
-Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsBarChart/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-4) Tableau Audiobook Sales + Reviews (Dashboard)
-Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsDashboard_17597643824400/AudiobookDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📊 **Dashboard Overview**
 
@@ -66,3 +56,13 @@ It consists of **three main charts** that visualize review trends, audiobook per
 
 ---
 
+### **BI Visualisations:**
+
+1) Tableau Audiobook Sales + Reviews (Area Chart)
+Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsAreaChart/AreaChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2) Tableau Audiobook Sales + Reviews (Pie Chart)
+Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsPieChart/PieChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+3) Tableau Audiobook Sales + Reviews (Bar Chart)
+Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsBarChart/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+4) Tableau Audiobook Sales + Reviews (Dashboard)
+Tableau Public: (https://public.tableau.com/views/AudiobookSalesReviewsDashboard_17597643824400/AudiobookDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
